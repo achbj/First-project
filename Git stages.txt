@@ -1,1 +1,9 @@
 reference url:p-geeklearners.com
+
+step1:- git init
+step2:- git config --global user.name
+step3:- git config --global password
+step4:- git add .
+step5:- git commit -m "message"
+step6:- git remote add origin https://github.com/achbj/First-project.git
+step7:- git push origin master
