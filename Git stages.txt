@@ -7,4 +7,4 @@ step4:- git add .
 step5:- git commit -m "message"
 step6:- git remote add origin https://github.com/achbj/First-project.git    *
 step7:- git push origin master
-step8:- git clone url from github
+step8:- git pull origin master
